@@ -1,0 +1,9 @@
+tawan:
+  client:
+    address:
+      url: http://localhost:8082/addresses
+
+spring:
+  data:
+    mongodb:
+      url: mongodb://localhost:27017/cleanarch
